@@ -2,7 +2,7 @@
 
 I’m Marcelo Maciel, a Software Engineer based in São Leopoldo, Brazil, specializing in building Web Applications using ASP.NET Core and Full.
 
-- 😎 Currently working as CTO in [Gestão Inteligente Software](https://gestaointeligentesoftware.com.br/).
+- 😎 Currently working as CEO in [Crowd IT](https://crowdit.com.br/).
 - 📫 Connect and reach me on [LinkedIn](https://www.linkedin.com/in/marcelomohrmaciel).
 - 📫 How to reach me: marcelo.mohr.maciel@gmail.com
  
